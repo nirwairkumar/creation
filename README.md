@@ -7,3 +7,5 @@ adding files
 * by touch <file name>
 * touch app.js
 * touch new.txt
+
+* console.log added
