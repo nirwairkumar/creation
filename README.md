@@ -8,4 +8,11 @@ adding files
 * touch app.js
 * touch new.txt
 
+
 * console.log added
+=======
+
+# create file:
+* by touch <by file name>
+
+  
