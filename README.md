@@ -9,6 +9,9 @@ adding files
 * touch new.txt
 
 
+* console.log added
+=======
+
 # create file:
 * by touch <by file name>
 
