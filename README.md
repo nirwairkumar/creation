@@ -9,10 +9,5 @@ adding files
 * touch new.txt
 
 
-* console.log added
-=======
-
-# create file:
-* by touch <by file name>
-
-  
+* console.log added  
+hi, the capital of India is Dilhi
