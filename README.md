@@ -9,3 +9,4 @@ adding files
 * touch new.txt
 
 * console.log added
+hi delhi is the capital of india
