@@ -8,21 +8,5 @@ adding files
 * touch app.js
 * touch new.txt
 
-<<<<<<< HEAD
 * console.log added
 hi delhi is the capital of india
-=======
-
-<<<<<<< HEAD
-* console.log added
-=======
-
-# create file:
-* by touch <by file name>
-
-  
->>>>>>> 3832f2c952b7fd88da15a8a971241cb44b14bd15
-=======
-* console.log added  
-hi, the capital of India is Dilhi
->>>>>>> main
